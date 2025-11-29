@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
               Sua agência de confiança para explorar o mundo. Conectamos você aos melhores destinos com segurança e economia.
             </p>
             <div className="flex space-x-4">
-              <a href="https://instagram.com/viajamais" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-blue transition-colors">
+              <a href="https://www.instagram.com/viajamais.oficial" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-blue transition-colors">
                 <Instagram size={20} />
               </a>
               <a href="mailto:contato@viajamaisturismo.com.br" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-brand-blue transition-colors">
@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-gray-500">
-          <p>&copy; 2024 VIAJA+ TURISMO. Todos os direitos reservados.</p>
+          <p>&copy; 2025 VIAJA+ TURISMO. Todos os direitos reservados.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-white">Política de Privacidade</a>
             <a href="#" className="hover:text-white">Termos de Uso</a>
